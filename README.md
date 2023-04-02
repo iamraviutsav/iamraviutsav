@@ -1,3 +1,4 @@
+-  Founder & COO - EVE
 - 👋 Hi, I’m @iamraviutsav
 - 👀 I’m interested in Trading and Coding
 - 🌱 I’m currently learning Python
